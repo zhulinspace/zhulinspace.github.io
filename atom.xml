@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ashezhu&#39;s blog</title>
+  
+  <subtitle>往哪走都是往前走</subtitle>
+  <link href="http://ashezhu.com/atom.xml" rel="self"/>
+  
+  <link href="http://ashezhu.com/"/>
+  <updated>2021-10-31T07:56:10.232Z</updated>
+  <id>http://ashezhu.com/</id>
+  
+  <author>
+    <name>ashezhu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>article title</title>
+    <link href="http://ashezhu.com/2021/10/28/article-title/"/>
+    <id>http://ashezhu.com/2021/10/28/article-title/</id>
+    <published>2021-10-28T12:42:59.000Z</published>
+    <updated>2021-10-31T07:56:10.232Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://ashezhu.com/2021/10/28/hello-world/"/>
+    <id>http://ashezhu.com/2021/10/28/hello-world/</id>
+    <published>2021-10-28T07:33:55.693Z</published>
+    <updated>2021-10-28T07:33:55.693Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
